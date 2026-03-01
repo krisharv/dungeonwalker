@@ -1,0 +1,1 @@
+Avrya, a young Dungeon Explorer, stumbles upon the mysterious statues of the mighty king OZYMANDIUS, who seeks to be resurrected through the mystic gems - hidden in 4 stutues distributed randomny on unknown locations in a deep dark cave.
