@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dtyu356c80rbu"]
+
+[ext_resource type="Script" uid="uid://dsh4p7in77104" path="res://dialog_area.gd" id="1_cf272"]
+
+[node name="DialogArea" type="Area2D" unique_id=2071945845]
+collision_layer = 0
+collision_mask = 2
+script = ExtResource("1_cf272")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=114371932]
